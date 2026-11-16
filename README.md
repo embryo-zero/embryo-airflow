@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Airflow
+
+**Embryo Airflow** is Embryo-Zero's fork of [SU2](https://github.com/su2code/SU2), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <p align="center">
 <img width="250" height="154" src="Docs/logoSU2small.png">
 </p>
